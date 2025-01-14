@@ -92,8 +92,8 @@ let animationDetails = {};
 
 var collectableList = {
   database: { image: "images/collectables/database.png" },
-  diamond: { image: "images/collectables/diamond-head.png" },
-  grace: { image: "images/collectables/grace-head.png" },
+  diamond: { image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhNaCb3KGf8idSRqMYgbH69rsxWaXIfJgXYMaihBGj0dce_0:https://img.freepik.com/premium-psd/green-circuit-board-with-red-circuit-board-it_943194-22700.jpg%3Fsemt%3Dais_hybrid&s" },
+  grace: { image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLK388HKlkfkCRWeL12pBLq94ZE5EwgFQSq737BBZMc_J9c-E:https://clipart-library.com/2023/320-3206104_speaker-wire-royalty-free-vector-clip-art-illustration.png&s" },
   kennedi: { image: "https://png.pngtree.com/png-clipart/20230319/original/pngtree-yellow-lightning-bolt-transparent-images-clipart-png-image_8995401.png" },
   max: { image: "images/collectables/grace-head.png" },
   steve: { image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXcu9Z6XLIN0hVHCK9WjbIjitJUkVu99FSMK_D9K_svGKozaxwcmAIojA&s" },
