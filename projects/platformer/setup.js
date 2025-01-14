@@ -94,7 +94,7 @@ var collectableList = {
   database: { image: "images/collectables/database.png" },
   diamond: { image: "images/collectables/diamond-head.png" },
   grace: { image: "images/collectables/grace-head.png" },
-  kennedi: { image: "images/collectables/kennedi-head.png" },
-  max: { image: "https://png.pngtree.com/png-clipart/20230319/original/pngtree-yellow-lightning-bolt-transparent-images-clipart-png-image_8995401.png" },
+  kennedi: { image: "https://png.pngtree.com/png-clipart/20230319/original/pngtree-yellow-lightning-bolt-transparent-images-clipart-png-image_8995401.png" },
+  max: { image: "images/collectables/grace-head.png" },
   steve: { image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXcu9Z6XLIN0hVHCK9WjbIjitJUkVu99FSMK_D9K_svGKozaxwcmAIojA&s" },
 };
