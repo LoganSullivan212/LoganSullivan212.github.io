@@ -22,6 +22,7 @@
 
 		.board {
 			height: 100vh;
+			background-image: url(download\ \(4\).jpeg)
 		}
 	</style>
 	<!-- 	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
@@ -91,7 +92,12 @@
 				positionX = 0;
 				points = points + 1;
 				changeBoxText(points);
-				speed = speed + 3;
+				if (speed > 0){
+					speed = speed + 3;
+				}
+				else if (speed < 0){
+					speed = speed - 3;
+				}
 			};
 
 
